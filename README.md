@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hey, I'm Arya Kalambe 👋
 
 ### Data Science • Machine Learning • Explainable AI • Healthcare AI
